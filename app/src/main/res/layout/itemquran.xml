@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:layout_margin="15dp"
+    android:layout_centerVertical="true"
+    android:layout_centerHorizontal="true"
+    android:id="@+id/item_quran_id"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="أهلا بكم"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:id="@+id/item_quran"
+        android:textAlignment="center"
+        android:scrollbars="vertical"
+
+
+
+
+        />
+
+</LinearLayout>
